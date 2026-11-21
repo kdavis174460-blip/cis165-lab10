@@ -1,6 +1,6 @@
 1.) Tools used: Identify any AI tools you used and what you used them for, or state that you did not use AI.
 
-I did use Replit to review my code to make sure I would not have any problems before running the program. Writing the program was straightforward enough and was easy to navigate after knowing the data types and output in C++
+I used Replit to help me create the random generator for this program and to thoroughly explain the steps needed to create this program so it will be able to run correctly. 
 
 2.) One decision: Describe one suggestion, correction, or design decision and explain what you accepted, changed, or rejected.
 
