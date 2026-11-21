@@ -58,4 +58,4 @@ int main()
     cout << "Matching positions: " << matches << '\n';
 
     return 0;
-}
+} 
