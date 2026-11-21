@@ -4,8 +4,7 @@ I used Replit to help me create the random generator for this program and to tho
 
 2.) One decision: Describe one suggestion, correction, or design decision and explain what you accepted, changed, or rejected.
 
-One correction was the output and mistake they found when writing out std::cout <<. I accepted the correction because the program would have had an error if I did not fix it. 
-
+One suggestion I used was creating a fixed winning array to test the program. Another suggestion was making a random generator for the program. 
 
 3.) Verification: Identify a specific output comparison, test, warning, or compiler result you used.
 
@@ -13,4 +12,4 @@ I looked back at the requirements along with examples and checked that each part
 
 4.) Learning: Explain one thing you can now do or describe yourself and one thing you still need to practice.
 
-One thing I can do now is make sure my program is easy to read and understand along with writing the output in C++. However, one thing I still need to practice is catching my mistakes with the use of AI. 
+One thing I can do now is make a random generator. However, one thing I still need to practice are arrays. I feel like with more practice I can better at it. 
