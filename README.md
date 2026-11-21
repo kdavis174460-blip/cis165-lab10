@@ -34,7 +34,7 @@ Restored it back to random generation, even though the test table also shows fix
 **How does the random expression keep every digit between 0 and 9?**
 The random expression keeps every digit between 0 and 9 by using rand() 1-5. It productions from 0 to 9 by using %10 to get the remainder after diving it by 10. Also, the purpose of rand() is to return nonnegative integers.
 **Why does a matching digit in another position not count?**
- The matching digit in another position does not count because it only compares digits that are in the same position in each array. The winning 5 from the first digit and 5 from the player from the fifth digit are the same number but do not match because they are in different positions (Fixed winning [5,4,3,1,1]; player [4,4,2,1,5]). 
+ The matching digit in another position does not count because it only compares digits that are in the same position in each array. For example, the winning 5 from the first digit and 5 from the player from the fifth digit are the same number but do not match because they are in different positions (Fixed winning [5,4,3,1,1]; player [4,4,2,1,5]). 
 **Trace the count through the example arrays.**
 Fixed winning [5,4,3,1,1]; player [4,4,2,1,5];
  First digit: 5 vs. 4;
