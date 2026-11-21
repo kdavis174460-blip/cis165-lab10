@@ -1,10 +1,10 @@
 1.) Tools used: Identify any AI tools you used and what you used them for, or state that you did not use AI.
 
-I used Replit to help me create the random generator for this program and to thoroughly explain the steps needed to create this program so it will be able to run correctly. 
+I used Replit to help me create the random generator for this program and to thoroughly explain the steps needed to create this program so it can run smoothly. 
 
 2.) One decision: Describe one suggestion, correction, or design decision and explain what you accepted, changed, or rejected.
 
-One suggestion I used was creating a fixed winning array to test the program. Another suggestion was making a random generator for the program. The reason I accepted these suggestions was to make sure I followed the directions so the program would function correctly. 
+One suggestion I used was creating a fixed winning array to test the program. Another suggestion was making a random generator for the program. The reason I accepted these suggestions was to make sure I followed the directions in order for the program to function properly. 
 
 3.) Verification: Identify a specific output comparison, test, warning, or compiler result you used.
 
